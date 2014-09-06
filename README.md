@@ -1,4 +1,4 @@
-# YTS Squire Stream - 1080p
+# YTS Squire Stream - 1080p / 720p
 
 <img src="https://s3.amazonaws.com/Squire_Contents/sites+resources/github+streamers/stream_icon.png" width="108" height="108" alt="Squire Stream Icon"/>
 
