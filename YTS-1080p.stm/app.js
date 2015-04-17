@@ -22,7 +22,7 @@ if (argv.m) {
     var numberOfPages = 10;
 
     for(var j = 0; j < numberOfPages; j++) {
-    	url = util.format('http://yts.re/api/list.json?sort=seeds&quality=1080p&limit=20&set=%d', j);
+    	url = util.format('http://yts.to/api/list.json?sort=seeds&quality=1080p&limit=20&set=%d', j);
     	urls[j] = url;
     }
     
